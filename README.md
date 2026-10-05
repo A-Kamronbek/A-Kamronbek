@@ -26,10 +26,11 @@ NFC tap-to-pay web app for sellers in Uzbekistan: a customer taps the seller's c
 
 ## Tools
 
-Python, Django, PostgreSQL, SQL, Redis, JavaScript, HTML and CSS, Linux, Git, Nginx, Gunicorn, GitHub Actions
+Python, Django, PostgreSQL, SQL, Redis, REST APIs, Docker, JavaScript, HTML and CSS, Linux, Git, Nginx, Gunicorn, GitHub Actions
 
 ## Contact
 
 Open to part-time roles (up to 20 hours a week in term time, full-time in university holidays), internships and placements.
 
-[LinkedIn](https://www.linkedin.com/in/a-kamronbek/)
+- Email: [a.kamron007@gmail.com](mailto:a.kamron007@gmail.com)
+- LinkedIn: [linkedin.com/in/a-kamronbek](https://www.linkedin.com/in/a-kamronbek/)
